@@ -38,14 +38,8 @@ plt.scatter(x,y)
 plt.plot(x,y_prad,color="orange")
 plt.show()
 ```
-```
-## Output
+## Output:
 ![image](https://github.com/SivaramakrishnanBaskar/Univariate-Linear-Regression/assets/119476322/0f88f781-2752-421a-81b6-9cd86c91c3a7)
-
-</br>
-</br>
-</br>
-</br>
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
